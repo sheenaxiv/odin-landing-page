@@ -46,17 +46,24 @@ header h1 {
 .testimonial {
     background: #e5e7eb;
     color: #1f2937;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
 }
 
 .testimonial .quote {
     font-size: 2rem;
     font-weight: 300;
     font-style: italic;
+    width: 65%;
 }
 
 .testimonial .quote-author {
-    font-size: 1.33rem;
+    font-size: 1.55rem;
     font-weight: 900;
+    display: block;
+    text-align: right;
+    font-style: normal;
 }
 
 .cta-sign-up {
