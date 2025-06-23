@@ -71,9 +71,12 @@ header, footer {
 
 .hero-image {
     width: 500px;
-    height: 250px;
-    background: #ddd;
     flex: 0 0 auto;
+}
+
+.hero img {
+    width: 100%;
+    height: auto;
 }
 
 .information {
@@ -90,14 +93,19 @@ header, footer {
 
 .cards {
     display: flex;
-    gap: 16px;
+    justify-content: center;
+    gap: 48px;
+}
+
+.card {
+    width: 200px;
 }
 
 .card img {
     border: 2px solid #3882f6;
     border-radius: 16px;
-    height: 100px;
-    width: 100px;
+    width: 200px;
+    height: 150px;
 }
 
 .card p {
