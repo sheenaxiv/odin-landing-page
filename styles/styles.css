@@ -30,7 +30,7 @@ header, footer {
 }
 
 .main-nav {
-    padding: 24px 150px;
+    padding: 24px 148px;
     display: flex;
     justify-content: space-between;
 }
@@ -53,7 +53,7 @@ header, footer {
 }
 
 .hero {
-    padding: 80px 150px 130px;
+    padding: 80px 148px 128px;
     display: flex;
     gap: 44px;
 }
@@ -76,10 +76,32 @@ header, footer {
     flex: 0 0 auto;
 }
 
+.information {
+    padding: 48px 148px;
+    text-align: center;
+}
+
 .information h2 {
     font-size: 2rem;
     font-weight: 900;
     color: #1f2937;
+    margin-bottom: 48px;
+}
+
+.cards {
+    display: flex;
+    gap: 16px;
+}
+
+.card img {
+    border: 2px solid #3882f6;
+    border-radius: 16px;
+    height: 100px;
+    width: 100px;
+}
+
+.card p {
+    margin-top: 12px;
 }
 
 .testimonial {
