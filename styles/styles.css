@@ -129,10 +129,11 @@ header, footer {
 
 .testimonial .quote-author {
     font-size: 1.55rem;
-    font-weight: 900;
+    font-weight: 600;
     display: block;
     text-align: right;
     font-style: normal;
+    margin-top: 16px;
 }
 
 .cta-sign-up {
