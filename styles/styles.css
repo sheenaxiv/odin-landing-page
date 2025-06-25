@@ -101,6 +101,7 @@ footer {
     display: flex;
     justify-content: center;
     gap: 48px;
+    flex-wrap: wrap;
 }
 
 .card {
