@@ -17,7 +17,7 @@ body {
 button {
     background: #3882f6;
     color: #f9faf8;
-    padding: 8px 40px;
+    padding: 0.44em 2.22em;
     border-radius: 8px;
     font-weight: 500;
     font-size: 1.125rem;
@@ -31,7 +31,7 @@ footer {
 }
 
 .main-nav {
-    padding: 24px 148px;
+    padding: 1.33em 8.22em;
     display: flex;
     justify-content: space-between;
 }
@@ -58,7 +58,7 @@ footer {
 }
 
 .hero {
-    padding: 80px 148px 128px;
+    padding: 4.44em 8.22em 7.11em;
     display: flex;
     gap: 44px;
 }
@@ -85,7 +85,7 @@ footer {
 }
 
 .information {
-    padding: 48px 148px;
+    padding: 2.66em 8.22em;
     text-align: center;
     color: #1f2937;
 }
@@ -122,7 +122,7 @@ footer {
 .testimonial {
     background: #e5e7eb;
     color: #1f2937;
-    padding: 100px;
+    padding: 5.55em;
     display: flex;
     justify-content: center;
 }
@@ -153,7 +153,7 @@ footer {
     background: #3882f6;
     width: 80%;
     border-radius: 8px;
-    padding: 48px;
+    padding: 2.66em;
     display: flex;
     justify-content: space-around;
 }
@@ -172,7 +172,7 @@ footer {
 
 footer {
     height: 100px;
-    padding: 16px;
+    padding: 0.88em;
     display: flex;
     justify-content: center;
     align-items: center;
