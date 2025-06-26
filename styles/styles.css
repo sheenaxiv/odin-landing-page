@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
+:root {
+    --primary-clr: #1f2937;
+    --secondary-clr: #3882f6;
+    --tertiary-clr: #e5e7eb;
+    --accent-clr: #f9faf8;
+}
 * {
     margin: 0;
     padding: 0;
@@ -10,13 +16,13 @@ body {
     font-family: 'Roboto', Arial, Arial, Helvetica, sans-serif;
     background: #fff;
     font-size: 18px;
-    color: #e5e7eb;
     font-weight: 300;
+    color: var(--primary-clr);
 }
 
 button {
-    background: #3882f6;
-    color: #f9faf8;
+    background: var(--secondary-clr);
+    color: var(--accent-clr);
     padding: 0.44em 2.22em;
     border-radius: 8px;
     font-weight: 500;
@@ -26,8 +32,8 @@ button {
 
 header, 
 footer {
-    background-color: #1f2937;
-    color: #f9faf8;
+    background-color: var(--primary-clr);
+    color: var(--accent-clr);
 }
 
 .main-nav {
@@ -38,7 +44,6 @@ footer {
 
 .logo {
     font-size: 1.33rem;
-    color: #f9faf8;
     font-weight: 900;
 }
 
@@ -49,7 +54,7 @@ footer {
 }
 
 .main-nav a {
-    color: #e5e7eb;
+    color: var(--tertiary-clr);
     text-decoration: none;
 }
 
@@ -70,7 +75,7 @@ footer {
 }
 
 .hero-content p {
-    color: #e5e7eb;
+    color: var(--tertiary-clr);
     margin-bottom: 16px;
 }
 
@@ -87,13 +92,11 @@ footer {
 .information {
     padding: 2.66em 8.22em;
     text-align: center;
-    color: #1f2937;
 }
 
 .information h2 {
     font-size: 2rem;
     font-weight: 900;
-    color: #1f2937;
     margin-bottom: 48px;
 }
 
@@ -109,7 +112,7 @@ footer {
 }
 
 .card img {
-    border: 2px solid #3882f6;
+    border: 2px solid var(--secondary-clr);
     border-radius: 16px;
     width: 200px;
     height: 150px;
@@ -120,8 +123,7 @@ footer {
 }
 
 .testimonial {
-    background: #e5e7eb;
-    color: #1f2937;
+    background: var(--tertiary-clr);
     padding: 5.55em;
     display: flex;
     justify-content: center;
@@ -150,7 +152,7 @@ footer {
 }
 
 .cta-content {
-    background: #3882f6;
+    background: var(--secondary-clr);
     width: 80%;
     border-radius: 8px;
     padding: 2.66em;
@@ -159,15 +161,15 @@ footer {
 }
 
 .cta-content h3 {
-    color: #f9faf8;
+    color: var(--accent-clr);
 }
 
 .cta-content p {
-    color: #e5e7eb;
+    color: var(--tertiary-clr)
 }
 
 .cta-content button {
-    border: 2px solid #f9faf8;
+    border: 2px solid var(--accent-clr);
 }
 
 footer {
