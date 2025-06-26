@@ -11,6 +11,7 @@ This is a solution to the [Landing Page Project on The Odin Project](https://www
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
+- [Credits](#image-credits)
 
 ## Overview
 
@@ -40,3 +41,12 @@ Throughout the process I became more comfortable with using flexbox. I appreciat
 
 - GitHub - [@sheenaxiv](https://github.com/sheenaxiv)
 - Bluesky - [@sheenaxiv](https://bsky.app/profile/sheenaxiv.bsky.social)
+
+
+## Image Credits
+
+- August de Richelieu: [https://www.pexels.com/photo/little-girl-taking-online-classes-4261787/](https://www.pexels.com/photo/little-girl-taking-online-classes-4261787/)
+- Mart Production: [https://www.pexels.com/photo/woman-in-white-shirt-writing-notes-beside-her-instructor-8472880/](https://www.pexels.com/photo/woman-in-white-shirt-writing-notes-beside-her-instructor-8472880/)
+- Kaboompics.com: [https://www.pexels.com/photo/a-woman-teaching-her-students-7692559/](https://www.pexels.com/photo/a-woman-teaching-her-students-7692559/)
+- Mikhail Nilov: [https://www.pexels.com/photo/a-father-tutoring-his-daughter-8121106/](https://www.pexels.com/photo/a-father-tutoring-his-daughter-8121106/)
+- Zen Chung: [https://www.pexels.com/photo/multiethnic-girlfriends-preparing-for-exam-outdoors-5538357/](https://www.pexels.com/photo/multiethnic-girlfriends-preparing-for-exam-outdoors-5538357/)
